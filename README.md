@@ -1,2 +1,18 @@
-# servicenow-employee-onboarding-system
-Employee onboarding project built using ServiceNow
+# Employee Onboarding System using ServiceNow
+
+## Day 1 Progress
+- Created custom application in ServiceNow
+- Created Employee Onboarding table
+- Added custom fields:
+  - Employee Name
+  - Employee Email
+  - Department
+  - Joining Date
+  - Approval Status
+  - Laptop Required
+  - ID Card Required
+- Uploaded screenshots
+
+## Tools Used
+- ServiceNow App Engine Studio
+- GitHub

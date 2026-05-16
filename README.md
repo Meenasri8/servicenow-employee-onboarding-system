@@ -16,3 +16,10 @@
 ## Tools Used
 - ServiceNow App Engine Studio
 - GitHub
+
+## Day 2 Progress
+- Created employee onboarding form
+- Added sample employee request record
+- Created automation flow
+- Configured trigger on record creation
+- Added automatic status update action
